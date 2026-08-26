@@ -18,10 +18,23 @@ Here’s an overview of the files in this repository:
 
 * **Team_Members_PPT** – Individual presentation slides prepared by each team member.
 * **Cyber_Threat_Analytics_Project.pbix** – Main Power BI project file containing the data model, DAX measures, and interactive dashboards.
-* **Cyber_Threat_Analytics_Group.pptx** – Group presentation describing the complete project.
+* **Twinkle.pptx** – Presentation that describes the complete project.
 * **Internship_Completion_Report.pdf** – Internship completion report.
 * **LICENSE** – License information for the repository.
 * **README.md** – Complete overview and documentation of the project.
+
+---
+## 🗂️ Dataset
+
+The dataset used in this project consists of publicly available cybersecurity incident records obtained from **Kaggle**.
+
+- **Dataset File:** `Dataset.csv` *(uploaded in this repository)*
+- **Total Records:** 10,228+ cybersecurity incidents
+- **Geographical Coverage:** 141 countries
+- **Time Coverage:** Spans multiple decades
+- **Key Features:** Attack Type, Actor Type, Attacker Country, Target Country, Asset Variety, Cloud Environment, Motive, Incident ID, Year, and Month.
+
+The dataset was analyzed and preprocessed to identify cybersecurity trends, attack patterns, affected regions, and other meaningful insights.
 
 ---
 
@@ -192,13 +205,6 @@ By leveraging **Python, Pandas, Power Query, Power BI, DAX, and data modeling**,
 The project demonstrates the practical application of **data analytics and visual intelligence in cybersecurity**, showing how complex and noisy incident data can be transformed into clear, meaningful, and actionable insights that support threat monitoring and informed decision-making.
 
 ---
-
-## 💬 Contributors
-
-* **Twinkle Mohanty**
-* **Vennela Pathipaka**
-* **Subhashree Subhasmita**
-* **Tejasri Lakshmi Maddula**
 
 **Mentor:** Mrs. Nithyasree
 
