@@ -16,7 +16,6 @@ The project demonstrates how **data analytics and visualization** can be used to
 
 Here’s an overview of the files in this repository:
 
-* **Team_Members_PPT** – Individual presentation slides prepared by each team member.
 * **Cyber_Threat_Analytics_Project.pbix** – Main Power BI project file containing the data model, DAX measures, and interactive dashboards.
 * **Twinkle.pptx** – Presentation that describes the complete project.
 * **Internship_Completion_Report.pdf** – Internship completion report.
